@@ -1,10 +1,27 @@
-# Hi there, I'm Shivanand Yadav 👋
+<table>
+  <tr>
+    <!-- Left: Plain name with no underline -->
+    <td align="left" valign="middle">
+     <h1><p><strong>👋 Hi, I'm Shivanand Yadav</strong></p></h1>
+    </td>
+      <td align="right" valign="middle">
+      <img src="https://github.com/user-attachments/assets/7ee3d6b3-f718-460d-beb6-ba5fc9a3c2e4" width="70" alt="iOS"/>
+      <img src="https://github.com/user-attachments/assets/8fc93cb0-a915-4b19-995a-c895d21144b7" width="70" alt="Android"/>
+      <img src="https://github.com/user-attachments/assets/4d8b03ae-2a11-44fd-b7fa-d013b9f2ca2a" width="70" alt="API"/>
+      <img src="https://github.com/user-attachments/assets/70749fc1-5198-4822-94bf-cf15bfeaa3c3" width="70" alt="Web"/>
+      <img src="https://github.com/user-attachments/assets/001eb966-19a9-44f1-a276-24768984e4d3" width="70" alt="Ubuntu"/>
+    </td>
+  </tr>
+</table>
+
 
 I'm a passionate Senior Software Development Engineer with a knack for turning ideas into reality. I enjoy building efficient, scalable, and user-focused applications. Whether it’s contributing to open source, exploring new technologies, or working on personal projects, I am always excited about technology and coding.
 
 ---
 
 ## 🚀 What I Do
+![workspace](https://github.com/user-attachments/assets/803a48be-6134-481f-89e5-2c142b4c9e80)
+
 - **Mobile Development:**  
 Android Developer specializing in building scalable apps with Kotlin and Java. Expert in MVVM, Clean Architecture, and App Modularization for maintainable code. Proficient in crafting engaging UIs with Jetpack Compose, robust dependency injection using Hilt/Dagger2, and seamless API integration with Retrofit, OKHttp, and Moshi.
 
@@ -58,6 +75,8 @@ Android Developer specializing in building scalable apps with Kotlin and Java. E
 - [Personal Blog](https://medium.com/@shivanandyadav12a)
 
 I love connecting with like-minded individuals – feel free to drop a message!
+![coding vibe](https://github.com/user-attachments/assets/55a52b35-59e0-4dfb-9e9d-ea1c36a6d103)
+
 
 ---
 
