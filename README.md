@@ -15,7 +15,7 @@
 </table>
 
 
-I'm a passionate Senior Software Development Engineer with a knack for turning ideas into reality. I enjoy building efficient, scalable, and user-focused applications. Whether it’s contributing to open source, exploring new technologies, or working on personal projects, I am always excited about technology and coding.
+I'm a passionate Staff Engineer, SW - Android with a knack for turning ideas into reality. I enjoy building efficient, scalable, and user-focused applications. Whether it’s contributing to open source, exploring new technologies, or working on personal projects, I am always excited about technology and coding.
 
 ---
 
